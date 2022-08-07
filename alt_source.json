@@ -6,7 +6,6 @@
             "group": "Minimal",
             "icon": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/DietPi.png",
             "marketing_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/marketing.tar",
-            "nominal_size": 28700,
             "os_info": "https://git.digitalnode.org/lotharea/dietpi_x64_arm64v8/raw/main/os.json",
             "os_name": "DietPi x64 ARM64v8",
             "partition_setup": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/partition_setup.sh",
