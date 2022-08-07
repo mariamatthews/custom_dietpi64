@@ -1,0 +1,36 @@
+{
+    "os_list": [
+        {
+            "description": "Highly optimized minimal Debian OS (ARMv6 32-bit Bullseye)",
+            "download_size": 168662068,
+            "group": "Minimal",
+            "icon": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/DietPi.png",
+            "marketing_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/marketing.tar",
+            "nominal_size": 28700,
+            "os_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/os.json",
+            "os_name": "DietPi",
+            "partition_setup": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/partition_setup.sh",
+            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=dietpi&s=28700",
+            "password": "dietpi",
+            "release_date": "2021-12-12",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082,20d3,20e0,3111",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero Rev",
+                "Pi Zero W Rev",
+                "Pi Compute Module",
+                "Pi 3",
+                "Pi 4"
+            ],
+            "supports_backup": true,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn-matthuisman/os/DietPi/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-matthuisman/os/DietPi/root.tar.xz"
+            ],
+            "url": "http://dietpi.com/",
+            "username": "root",
+            "version": "v7.9.3"
+        }
+    ]
+}
