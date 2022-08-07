@@ -7,11 +7,11 @@
             "icon": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/DietPi.png",
             "marketing_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/marketing.tar",
             "nominal_size": 28700,
-            "os_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/os.json",
-            "os_name": "DietPi",
+            "os_info": "https://git.digitalnode.org/lotharea/dietpi_x64_arm64v8/raw/main/os.json",
+            "os_name": "DietPi x64 ARM64v8",
             "partition_setup": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/partition_setup.sh",
             "partitions_info": "https://pinn.mjh.nz/partitions.json?p=dietpi&s=28700",
-            "password": "dietpi",
+            "password": "pass",
             "release_date": "2021-12-12",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082,20d3,20e0,3111",
             "supported_models": [
@@ -25,11 +25,11 @@
             ],
             "supports_backup": true,
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn-matthuisman/os/DietPi/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn-matthuisman/os/DietPi/root.tar.xz"
+                "https://git.digitalnode.org/lotharea/dietpi_x64_arm64v8/raw/main/partitions.json/boot.tar.xz",
+                "https://git.digitalnode.org/lotharea/dietpi_x64_arm64v8/raw/main/partitions.json/root.tar.xz"
             ],
             "url": "http://dietpi.com/",
-            "username": "root",
+            "username": "dietpi",
             "version": "v7.9.3"
         }
     ]
